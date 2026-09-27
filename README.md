@@ -1,10 +1,10 @@
-<p align="center"><img src="assets/banner.svg" alt="Anchor Learning Hub — Interactive learning your teams actually finish — white-label, bilingual, offline-ready" width="100%"></p>
+<p align="center"><img src="assets/banner.svg" alt="Anchor Learning Hub — Interactive, bilingual, offline-ready learning for workshops and training programmes" width="100%"></p>
 
-<p align="center"><b>Status:</b> Live demo · deployed per client &nbsp;·&nbsp; <b>Built by</b> <a href="https://github.com/Mohanad1st">Mohannad Hesham</a> &nbsp;·&nbsp; <b>Source:</b> private</p>
+<p align="center"><b>Status:</b> Live demo · ready to deploy per client &nbsp;·&nbsp; <b>Built by</b> <a href="https://github.com/Mohanad1st">Mohannad Hesham</a> &nbsp;·&nbsp; <b>Source:</b> private</p>
 
 <p align="center" dir="rtl" lang="ar">تعلّم تفاعلي يكمله فريقك فعلًا</p>
 
-> **This is a showcase, not the code.** The source is private because the system handles real operations for real people. Nothing here is needed to run it, and nothing here reveals how it is secured. A live walkthrough is available on request.
+> **This is a showcase, not the code.** The source is private because it is a product template built for client deployments. This page shows what it does and how it was built, not the code itself. A live walkthrough is available on request.
 
 ## The problem
 
@@ -25,7 +25,7 @@ Workshops end and the slides are forgotten. Most training platforms are either a
 
 <p align="center"><img src="assets/screen-1.webp" alt="Overview (English)" width="92%"><br><sub>Overview (English)</sub></p>
 
-<p align="center"><img src="assets/screen-2.png" alt="The same page in Arabic, right-to-left" width="92%"><br><sub>The same page in Arabic, right-to-left</sub></p>
+<p align="center"><img src="assets/screen-2.png" alt="The Arabic, right-to-left version" width="92%"><br><sub>The Arabic, right-to-left version</sub></p>
 
 <p align="center"><img src="assets/screen-3.webp" alt="Track selection in the live demo" width="92%"><br><sub>Track selection in the live demo</sub></p>
 
