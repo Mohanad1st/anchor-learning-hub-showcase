@@ -1,10 +1,12 @@
-<p align="center"><img src="assets/banner.svg" alt="Anchor Learning Hub — Interactive, bilingual, offline-ready learning for workshops and training programmes" width="100%"></p>
+<p align="center"><img src="assets/banner.svg" alt="Anchor Learning Hub" width="100%"></p>
 
-<p align="center"><b>Status:</b> Live demo · ready to deploy per client &nbsp;·&nbsp; <b>Built by</b> <a href="https://github.com/Mohanad1st">Mohannad Hesham</a> &nbsp;·&nbsp; <b>Source:</b> private</p>
+<p align="center"><b>Interactive, bilingual, offline-ready learning for workshops and training programmes</b></p>
 
-<p align="center" dir="rtl" lang="ar">تعلّم تفاعلي يكمله فريقك فعلًا</p>
+<p align="center" dir="rtl" lang="ar">تعلّم تفاعلي يُتمّه فريقك حتى النهاية</p>
 
-> **This is a showcase, not the code.** The source is private because it is a product template built for client deployments. This page shows what it does and how it was built, not the code itself. A live walkthrough is available on request.
+<p align="center"><b>Status:</b> Live demo · ready to deploy per client &nbsp;·&nbsp; <b>Built by</b> <a href="https://github.com/Mohanad1st">Mohannad Hesham</a></p>
+
+> Case study only: the source is private because it is a product template built for client deployments. Walkthrough on request.
 
 ## The problem
 
@@ -21,13 +23,11 @@ Workshops end and the slides are forgotten. Most training platforms are either a
 
 ## See it
 
-**[Try the live demo →](https://anchor-learning-hub.vercel.app)**
+**[Try the Anchor Learning Hub live demo](https://anchor-learning-hub.vercel.app)**
 
-<p align="center"><img src="assets/screen-1.webp" alt="Overview (English)" width="92%"><br><sub>Overview (English)</sub></p>
+<p align="center"><img src="assets/screen-1.webp" alt="Learning platform overview: Interactive learning your teams actually finish, with Try the live demo and Book a walkthrough buttons" width="92%"><br><sub>Overview (English)</sub></p>
 
-<p align="center"><img src="assets/screen-2.png" alt="The Arabic, right-to-left version" width="92%"><br><sub>The Arabic, right-to-left version</sub></p>
-
-<p align="center"><img src="assets/screen-3.webp" alt="Track selection in the live demo" width="92%"><br><sub>Track selection in the live demo</sub></p>
+<p align="center"><img src="assets/screen-2.webp" alt="Demo track picker with two tracks: Data and AI Foundations, and Web Development" width="92%"><br><sub>Track selection in the live demo</sub></p>
 
 <sub>All screens show demo data or public pages only.</sub>
 
@@ -39,7 +39,7 @@ React · TypeScript · Tailwind CSS · PostgreSQL with realtime and serverless f
 
 - Access codes are checked on the server and never kept in browser storage
 - Separate permissions for running a session and editing content
-- Row-level rules on every table by default
+- Row-level access rules are switched on by default; no independent security audit has been run on the template yet
 - Content imports are validated against an allow-list before anything is written
 - An automated check keeps English and Arabic text in step
 
@@ -51,7 +51,7 @@ React · TypeScript · Tailwind CSS · PostgreSQL with realtime and serverless f
 
 - [ImpactAnchor Reels](https://github.com/Mohanad1st/impactanchor-reels-showcase) — Recorded sessions in; scored, subtitled, scheduled short videos out
 - [Impact Anchor — consulting site](https://github.com/Mohanad1st/impact-anchor-site-showcase) — From AI overwhelm to a working adoption plan, for mission-driven teams
-- [AI Governance Roadmap](https://github.com/Mohanad1st/ai-governance-roadmap-showcase) — A free, bilingual course that takes you from first definitions to a governance plan
+- [AI Governance Roadmap](https://github.com/Mohanad1st/ai-governance-roadmap-showcase) — A free course that takes you from first definitions to a working AI governance plan
 - [Network Intelligence](https://github.com/Mohanad1st/network-intelligence-showcase) — Relationships, opportunities and content in one self-hosted workspace
 
 ---
