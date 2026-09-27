@@ -1,0 +1,59 @@
+<p align="center"><img src="assets/banner.svg" alt="Anchor Learning Hub — Interactive learning your teams actually finish — white-label, bilingual, offline-ready" width="100%"></p>
+
+<p align="center"><b>Status:</b> Live demo · deployed per client &nbsp;·&nbsp; <b>Built by</b> <a href="https://github.com/Mohanad1st">Mohannad Hesham</a> &nbsp;·&nbsp; <b>Source:</b> private</p>
+
+<p align="center" dir="rtl" lang="ar">تعلّم تفاعلي يكمله فريقك فعلًا</p>
+
+> **This is a showcase, not the code.** The source is private because the system handles real operations for real people. Nothing here is needed to run it, and nothing here reveals how it is secured. A live walkthrough is available on request.
+
+## The problem
+
+Workshops end and the slides are forgotten. Most training platforms are either a slide deck with no interaction or a one-off custom build. This is a template a facilitator can re-skin for a new client in an afternoon: a shared workspace per table, live group work, and an AI coach grounded in the programme's own material.
+
+## What it does
+
+- Passcode-gated group workspaces where answers sync live across the table
+- Multi-slide case studies, group exercises, timers and guided builders
+- An AI coach that answers from the programme's own content, in English and Arabic
+- Search across the programme in both languages
+- A no-code content editor with revision history, and a feedback survey
+- Keeps working offline in the room and syncs when the connection returns
+
+## See it
+
+**[Try the live demo →](https://anchor-learning-hub.vercel.app)**
+
+<p align="center"><img src="assets/screen-1.webp" alt="Overview (English)" width="92%"><br><sub>Overview (English)</sub></p>
+
+<p align="center"><img src="assets/screen-2.png" alt="The same page in Arabic, right-to-left" width="92%"><br><sub>The same page in Arabic, right-to-left</sub></p>
+
+<p align="center"><img src="assets/screen-3.webp" alt="Track selection in the live demo" width="92%"><br><sub>Track selection in the live demo</sub></p>
+
+<sub>All screens show demo data or public pages only.</sub>
+
+## Built with
+
+React · TypeScript · Tailwind CSS · PostgreSQL with realtime and serverless functions · static hosting
+
+## Built responsibly
+
+- Access codes are checked on the server and never kept in browser storage
+- Separate permissions for running a session and editing content
+- Row-level rules on every table by default
+- Content imports are validated against an allow-list before anything is written
+- An automated check keeps English and Arabic text in step
+
+## What it deliberately doesn't do
+
+- The public demo uses sample content and illustrative AI replies; it is not connected to any client's data.
+
+## More from Impact Anchor
+
+- [ImpactAnchor Reels](https://github.com/Mohanad1st/impactanchor-reels-showcase) — Recorded sessions in; scored, subtitled, scheduled short videos out
+- [Impact Anchor — consulting site](https://github.com/Mohanad1st/impact-anchor-site-showcase) — From AI overwhelm to a working adoption plan, for mission-driven teams
+- [AI Governance Roadmap](https://github.com/Mohanad1st/ai-governance-roadmap-showcase) — A free, bilingual course that takes you from first definitions to a governance plan
+- [Network Intelligence](https://github.com/Mohanad1st/network-intelligence-showcase) — Relationships, opportunities and content in one self-hosted workspace
+
+---
+
+<sub>© 2026 Mohannad Hesham. Showcase text and images only — no source code is published or licensed here. See all my work on <a href="https://github.com/Mohanad1st">my GitHub profile</a> · <a href="https://www.linkedin.com/in/mohannadhesham/">LinkedIn</a>.</sub>
